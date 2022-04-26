@@ -1,0 +1,85 @@
+
+header {
+    font-family: 'Pacifico', cursive;
+    font-weight:bold;
+    background-color: white;  
+}
+.name {
+    color: black;
+    font-size: 50px;
+    margin: 20px;
+
+}
+
+.top-image {
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url(IMG_0553.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+}
+.navbar-text {
+    float: right !important;
+    margin-right: 15px;
+    margin-left: 15px;
+    color: black !important;
+    font-size:25px;
+
+}
+a {
+    color: black;
+    margin-left: 30px;
+}
+
+.jumbo-style {
+    background-image: url(hiking.jpeg);
+    height: 500px;
+    background-size: cover;
+
+}
+.jumbotron {
+    height: 500px;
+    margin-left: 35px;
+    margin-top: 35px;
+    margin-right:35px;
+}
+.animationCard {
+    background-image: url(palmtrees.jpeg);
+    background-size: cover;
+    height: 800px;
+    margin-right: 35px;
+    margin-top: 35px;
+}
+.card-text {
+    font-size: 150px;
+}
+.project-card {
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 35px;
+    width: 400px;
+}
+.side-project-card {
+    margin-top: 35px;
+    width:300px;
+    margin-left:80px;
+}
+
+
+
+
+
+
+  
+  
+
+
+
+
+ 
+
+
+ 
