@@ -72,10 +72,34 @@ a {
     margin-left:100px;
     margin-right:35px
 }
-/* .card {
-    margin: 35px
-} */
 
+.low-card {
+    margin-top: 35px;
+}
+.card-body {
+    padding: 0rem;
+}
+#contact {
+    margin-top: 30px
+}
+#github {
+    font-family: 'Pacifico', cursive;
+    font-weight:bold;
+    color:white;
+    font-size: 40px
+}
+#linkedin {
+    font-family: 'Pacifico', cursive;
+    font-weight:bold;
+    color: white;
+    font-size: 40px
+}
+#resume {
+    font-family: 'Pacifico', cursive;
+    font-weight:bold;
+    color:white;
+    font-size: 40px
+}
 
 
 
